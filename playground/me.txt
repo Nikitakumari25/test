@@ -1,5 +1,0 @@
-{{#user}
-Name: Nikita
-Skills: HTML, CSS, JS, Next.js
-Email: nikitakumari2599@gmail.com
-{{/user}}
